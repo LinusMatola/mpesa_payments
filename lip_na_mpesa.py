@@ -1,4 +1,5 @@
 a = 23
 b = 56
 c = a + b
-print(c)
+results = c
+print(results)
