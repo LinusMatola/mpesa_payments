@@ -42,8 +42,8 @@ def lipa_na_mpesa():
                 "PartyA": keys.phone_number,
                 "PartyB": keys.businessShortCode,
                 "PhoneNumber": keys.phone_number,
-                "CallBackURL": "https://matlytnventures.com/callback",
-                "AccountReference": "32645000",
+                "CallBackURL": "https://xxxxxxxxxxx.com/callback",
+                "AccountReference": "xxxxxx",
                 "TransactionDesc": "Payment to matlynventures"
         }
         
