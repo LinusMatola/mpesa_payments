@@ -1,9 +1,14 @@
-businessShortCode = "174379"
+#input your registered businesscode
+businessShortCode = "xxxxx"
+# input your phone numer here
+phone_number = "2547xxxxxxx"
+#input your passkey
+lipa_na_mpesa_passkey = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
-phone_number = "254722316454"
+#fill th consumer key from your daraja account
+consumer_key = "xxxxxxxxxxxxxxxxxxxxx"
 
-lipa_na_mpesa_passkey = "bfb279f9aa9bdbcf158e97dd71a467cd2e0c893059b10f78e6b72ada1ed2c919"
+#fill this key provided in the account
+consumer_secret = "xxxxxxxxxxxxxxxx"
 
-consumer_key = "1yfv9M2kygNXfwGXd6AirJtvbAHR4P9d"
-
-consumer_secret = "5g7abHAYXkUWhqG0"
+shortcode = "xxxxx"
