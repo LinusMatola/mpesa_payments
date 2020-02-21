@@ -8,7 +8,7 @@ import keys
 
 unformated_time = datetime.now()
 formated_time = unformated_time.strftime("%Y%m%d%H%M%S")
-# print ("The formatted time is " + formated_time)
+
 
 
 data_to_encode = keys.businessShortCode + keys.lipa_na_mpesa_passkey + formated_time
